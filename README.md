@@ -10,6 +10,9 @@ I like to automate systems where there is a need.
 - [cbsd](https://github.com/cbsd) - Yet another FreeBSD Jail, XEN and Bhyve Management Utility
 - [clonos](https://github.com/clonos) - FreeBSD based distro for virtual hosting platform and appliance
 - [k8s-bhyve](https://github.com/k8s-bhyve) - Build K8S on top of bhyve hypervisor
+- [run-bhyve](https://bhyve.cloud/) - bhyve.cloud runs dedicated bhyve servers to host VMs with almost any OS: *BSD, Linux, Windows
+- [bitcoin-software/bitclouds.sh](https://bitclouds.sh/) - BitClouds.sh - open-source programmable cloud platform
+- [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
 
 <!--
 **olevole/olevole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
