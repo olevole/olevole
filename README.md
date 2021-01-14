@@ -14,6 +14,12 @@ I like to automate systems where there is a need.
 - [bitcoin-software/bitclouds.sh](https://bitclouds.sh/) - BitClouds.sh - open-source programmable cloud platform
 - [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
 
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you!
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/telegram.svg" width="20" alt="Telegram" /> https://web.telegram.org/#/im?p=%40olevole
+If you appreciate my work, you can also [sponsor me 💚](https://www.patreon.com/clonos) on Patreon!
+
 
 <!--
 **olevole/olevole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
