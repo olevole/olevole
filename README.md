@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/olevole/olevole/main/assets/olevole.jpg" width="260">
 
-I'm Oleg Ginzburg, an DevOPS working at [CBSD 🏔](https://github.com/cbsd) in Saint-Petersburg:cloud_with_snow:, Russia :ru:.
+I'm Oleg Ginzburg, an DevOPS working at [CBSD:hammer_and_wrench:](https://github.com/cbsd) in Saint-Petersburg:cloud_with_snow:, Russia :ru:.
 I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
