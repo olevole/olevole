@@ -15,12 +15,14 @@ I like to automate systems where there is a need.
 - [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=olevole&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
-<br><br>
 
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you!
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/telegram.svg" width="20" alt="Telegram" /> https://web.telegram.org/#/im?p=%40olevole
+
+
+#### Support
 
 If you appreciate my work, you can also [sponsor me 💚](https://www.patreon.com/clonos) on Patreon!
 
