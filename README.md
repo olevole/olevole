@@ -15,6 +15,7 @@ I like to automate systems where there is a need.
 - [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=olevole&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
+<br><br>
 
 #### 💬 Feedback
 
