@@ -7,12 +7,24 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [cbsd](https://github.com/cbsd) - Yet another FreeBSD Jail, XEN and Bhyve Management Utility
-- [clonos](https://github.com/clonos) - FreeBSD based distro for virtual hosting platform and appliance
-- [k8s-bhyve](https://github.com/k8s-bhyve) - Build K8S on top of bhyve hypervisor
-- [run-bhyve](https://bhyve.cloud/) - bhyve.cloud runs dedicated bhyve servers to host VMs with almost any OS: *BSD, Linux, Windows
-- [bitcoin-software/bitclouds.sh](https://bitclouds.sh/) - BitClouds.sh - open-source programmable cloud platform
-- [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
+<table>
+<tbody>
+  <tr>
+    <td>
+
+      - [cbsd](https://github.com/cbsd) - Yet another FreeBSD Jail, XEN and Bhyve Management Utility
+      - [clonos](https://github.com/clonos) - FreeBSD based distro for virtual hosting platform and appliance
+      - [k8s-bhyve](https://github.com/k8s-bhyve) - Build K8S on top of bhyve hypervisor
+      - [run-bhyve](https://bhyve.cloud/) - bhyve.cloud runs dedicated bhyve servers to host VMs with almost any OS: *BSD, Linux, Windows
+      - [bitcoin-software/bitclouds.sh](https://bitclouds.sh/) - BitClouds.sh - open-source programmable cloud platform
+      - [puppetbsd](https://github.com/PuppetBSD) - A collection of publicly available BSD-compatible puppet modules (mostly FreeBSD).
+
+    </td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=olevole&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
+    </td>
+  </tr>
+</tbody>
+</table>
 
 #### 💬 Feedback
 
